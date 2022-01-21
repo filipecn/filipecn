@@ -21,4 +21,11 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-@__filipecn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_filipecn)
 [![Gmail Badge](https://img.shields.io/badge/-filipedecn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:filipedecn@gmail.com)](mailto:filipedecn@gmail.com)
 
-![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecn&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+Welcome to my profile! I'm currently a CS Ph.D. student with lots of energy to code. Thanks for visiting and please feel free to connect!
+
+Here are the repositories I spend more time with:
+- [circe](https://github.com/filipecn/circe) - A minimalist graphics engine designed for OpenGL/Vulkan applications.
+- [hermes](https://github.com/filipecn/hermes) - My swiss-knife lib with lots of basic classes for logging, profiling, working with data structures, geometry, etc.
+
+
+![Most of my code is C++](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecn&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)

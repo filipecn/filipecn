@@ -29,7 +29,7 @@ The repositories I spend more efforts are:
 - [circe](https://github.com/filipecn/circe) - A minimalist graphics engine designed for OpenGL/Vulkan applications.
 - [hermes](https://github.com/filipecn/hermes) - My swiss-knife lib with support for CUDA and lots of classes for logging, profiling, working with data structures, geometry, etc.
 
-I use both libraries for my research and personal projects. I think they serve as good starting points for new projects. I've been spending some time in documenting them to hopefully make them useful for other people too :)
+I use both libraries for my research and personal projects. I think they serve as good starting points for new projects. I've been spending some time in documenting those libraries to hopefully make them useful for other people too :)
 
 
-![Most of my code is C++](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecn&langs_count=10&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+![Most of my code is C++](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecn&langs_count=10&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide=javascript,html,CSS)

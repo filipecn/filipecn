@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-filipecn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipecn/)](https://www.linkedin.com/in/filipecn/)
+[![Website Badge](https://img.shields.io/badge/-filipecn.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://filipecn.dev)](https://filipecn.dev)
+[![Twitter Badge](https://img.shields.io/badge/-@_filipe_c_n-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/filipe_c_n)](https://twitter.com/filipe_c_n)
+[![Instagram Badge](https://img.shields.io/badge/-@__filipecn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_filipecn)
+[![Gmail Badge](https://img.shields.io/badge/-filipedecn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:filipedecn@gmail.com)](mailto:filipedecn@gmail.com)
+
+![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecn&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
